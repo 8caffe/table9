@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Nazanin'; /* Replace 'YourFont' with the desired font name */
+    src: url('./fonts/B-NAZANIN.eot');
+    src: url('./fonts/B-NAZANIN.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/B-NAZANIN.woff') format('woff'),
+         url('./fonts/B-NAZANIN.ttf') format('truetype'),
+         url('./fonts/B-NAZANIN.svg#svgFontName') format('svg'),
+         url("./fonts/B-NAZANIN.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal; 
+}
+
+
+
+
+
+
+
